@@ -8,4 +8,9 @@ public class DemoC {
 		System.out.println("Sptint2 is working.. ");
 	}
 	//test C
+
+	//to sumilate conflict 
+	public void city() {
+		System.out.println("Asmara");
+	}
 }
