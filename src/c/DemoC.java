@@ -9,8 +9,11 @@ public class DemoC {
 	}
 	//test C
 
-	//to sumilate conflict 
+	//to simulate conflict 
 	public void city() {
 		System.out.println("Asmara");
+		
 	}
+	// to simulate conflict for the second time
+	
 }
